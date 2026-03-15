@@ -1,3 +1,13 @@
+// INIT
+
+
+//Variables
+let cScore =0;
+let hScore =0;
+
+
+
+//functions
 function getComputerChoice(){
     let randomNumber = Math.floor(Math.random()*3);
     let choice;
