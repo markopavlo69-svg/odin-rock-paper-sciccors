@@ -13,5 +13,13 @@ function getComputerChoice(){
     return choice
 }
 
+ function getHumanChoice(){
+    let hchoice = prompt("to play type rock, paper or sciccor");
+    console.log(hchoice);
+    return hchoice
+
+}
+
+
 
 

@@ -44,11 +44,11 @@ SEQUENCE
 create variable inside that stores random number from 1-3
 IF THEN ELSE
 depending on the number it will output a string rock paper or sciccor
+test with console.log
 
 
 SEQUENCE
 create function getHumanChoice
 create variable that prompts the user for a choice
-return the choice
-IF THEN ELSE
 depending on the user input there will be a different return value
+test with calling the function and console log
