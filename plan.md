@@ -5,7 +5,7 @@ link js DONE
 game will be only played in console!
 
 PHASE 1
-============================== DONE
+==============================
 function getComputerChoice is needed
 this function will return rock paper or sciccor as string randomly
 no arrays needed
@@ -41,3 +41,14 @@ play 5 rounds
 PSEUDOCODE
 ==========================
 
+SEQUENCE
+
+create function getComputerChoice
+use match.random to get a number between 0 and 3 save this to a var
+
+IF ELSE THEN
+0 is rock 1 is paper 2 is sciccor
+
+SEQUENCE
+test
+==========================================================================
